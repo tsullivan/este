@@ -34,9 +34,8 @@ export default {
       title: 'Examples'
     },
     home: {
-      infoHtml: `App starter kit for <a href="https://github.com/steida/este">Este.js</a>. Check`,
-      title: 'Este.js App',
-      todos: 'todos'
+      infoHtml: `This is a page saying hello to the world`,
+      title: 'Hello World'
     },
     me: {
       title: 'Me',

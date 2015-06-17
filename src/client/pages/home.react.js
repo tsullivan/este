@@ -12,7 +12,6 @@ export default class Home extends Component {
         <div className="home-page">
           <p>
             <FormattedHTMLMessage message={msg('home.infoHtml')} />{' '}
-            <Link to="todos">{msg('home.todos')}</Link>.
           </p>
         </div>
       </DocumentTitle>
